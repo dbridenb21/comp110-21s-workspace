@@ -1,0 +1,67 @@
+h1 {
+    color: navy;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#UNCvDuke {
+    font-size: 70px;
+}
+h2 {
+    color: #4b9cd3;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.subheading {
+    font-stretch: extra-condensed;
+}
+p { 
+    color: white;
+    font-size: 1em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 12cm;
+    margin-right: 12cm;
+    display: block;
+    width: 900px;
+    background: #4b9cd3;
+}
+h3 {
+    color: #4b9cd3;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    background-color: white
+    
+}
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+    
+}
+p::first-letter {
+    font-size: xx-large;
+}
+/* unvisited link */
+a:link { 
+    color: white;
+}
+/*visited link */
+a:visited {
+    color: navy;
+}
+/* mouse over link */
+a:hover {
+    color: yellow
+}
+/* selected link */
+a:active {
+    color: black
+}
+
+
+
